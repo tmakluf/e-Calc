@@ -1,0 +1,17 @@
+<resources>
+    <color name="colorPrimary">#20202E</color>
+    <color name="colorPrimaryDark">#35353A</color>
+    <color name="colorPrimary2">#20202E</color>
+
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="grey">#9E9797</color>
+    <color name="white">#FFFFFF</color>
+    <color name="horizontal_btn_color">#AD8F8C8C</color>
+    <color name="number_color">#35353A</color>
+    <color name="function_color">#AD444242</color>
+    <color name="equal_color">#098377</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
